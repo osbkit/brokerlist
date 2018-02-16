@@ -5,3 +5,8 @@ Here's what you've been waiting for!
 * [Openshift Ansible Service Broker](https://github.com/openshift/ansible-service-broker)
 * [Service Broker for Google Cloud Platform](https://github.com/GoogleCloudPlatform/gcp-service-broker)
 * [Open Service Broker for Azure](https://github.com/Azure/open-service-broker-azure)
+
+# Your Broker Here
+
+Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for instructions on how
+to add your broker to this list.
