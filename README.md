@@ -1,15 +1,12 @@
 # OSB Broker List
 
 This repository contains a list of high quality, known OSB compatible service
-brokers. If you'd like to add your broker to this list, please see
-[contributing](#contributing) below.
+brokers.
+
+**Want to jump right to the list? [Here ya go](./THELIST.md)!**
 
 _Important note: this repository is not affiliated or sponsored by any
 individual or company. Like everything in open source, it's a group effort._
-
-The rest of this page outlines logistics, etc... for this repository.
-
-Want to skip right to the list? [Here ya go](./THELIST.md)!
 
 # Why?
 
