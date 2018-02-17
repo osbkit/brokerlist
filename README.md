@@ -3,7 +3,7 @@
 This repository contains a list of high quality, known OSB compatible service
 brokers.
 
-**Want to jump right to the list? [Here ya go](./THELIST.md)!**
+**Want to jump right to the list? [Here ya go](#the-list-of-brokers)!**
 
 _Important note: this repository is not affiliated or sponsored by any
 individual or company. Like everything in open source, it's a group effort._
@@ -18,10 +18,18 @@ We're trying to keep track of useful brokers in this repository so that folks
 can check this list for brokers they might want to use. But, we aren't
 attempting to track every broker in existence.
 
-# Contributing
+# The List of Brokers
 
-Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to
-contribute to this repository.
+Here's what you've been waiting for!
+
+* [Openshift Ansible Service Broker](https://github.com/openshift/ansible-service-broker)
+* [Service Broker for Google Cloud Platform](https://github.com/GoogleCloudPlatform/gcp-service-broker)
+* [Open Service Broker for Azure](https://github.com/Azure/open-service-broker-azure)
+
+# Your Broker Here
+
+Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for instructions on how
+to add your broker to this list, or otherwise contribute to this repository.
 
 # Code of Conduct
 
