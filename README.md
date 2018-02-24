@@ -23,12 +23,11 @@ broker in existence.
 
 Here's what you've been waiting for!
 
-| Broker | Description |
-|-|-|
+|Broker |Description |
+|:-|:-|
 | [OpenShift Ansible Service Broker](https://github.com/openshift/ansible-service-broker) | Manage applications defined in Ansible Playbook Bundles. Distribute, provision, and bind to microservices in OpenShift Origin clusters. |
 |[Clound Foundry Service Broker for Google Cloud Platform](https://github.com/GoogleCloudPlatform/gcp-service-broker) | OSB implementation supporting several GCP services like BigQuery, Bigtable, Cloud SQL, Cloud Storage, and more. |
 |[Open Service Broker for Azure](https://github.com/Azure/open-service-broker-azure) | Provision Microsoft Azure services like CosmosDB, Event Hubs, SQL Database, Storage, and more. |
-|||
 
 # Your Broker Here
 
