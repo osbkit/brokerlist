@@ -28,6 +28,7 @@ Here's what you've been waiting for!
 | [OpenShift Ansible Service Broker](https://github.com/openshift/ansible-service-broker) | Manage applications defined in Ansible Playbook Bundles. Distribute, provision, and bind to microservices in OpenShift Origin clusters. |
 |[Cloud Foundry Service Broker for Google Cloud Platform](https://github.com/GoogleCloudPlatform/gcp-service-broker) | OSB implementation supporting several GCP services like BigQuery, Bigtable, Cloud SQL, Cloud Storage, and more. |
 |[Open Service Broker for Azure](https://github.com/Azure/open-service-broker-azure) | Provision Microsoft Azure services like CosmosDB, Event Hubs, SQL Database, Storage, and more. |
+|[AWS Service Broker](https://github.com/awslabs/aws-servicebroker-documentation/wiki) | The AWS Service Broker is an open source project that allows the management of native AWS services through the Open Service Broker API.  |
 
 # Your Broker Here
 
