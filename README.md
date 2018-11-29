@@ -29,7 +29,7 @@ Here's what you've been waiting for!
 |[Cloud Foundry Service Broker for Google Cloud Platform](https://github.com/GoogleCloudPlatform/gcp-service-broker) | OSB implementation supporting several GCP services like BigQuery, Bigtable, Cloud SQL, Cloud Storage, and more. |
 |[Open Service Broker for Azure](https://github.com/Azure/open-service-broker-azure) | Provision Microsoft Azure services like CosmosDB, Event Hubs, SQL Database, Storage, and more. |
 |[AWS Service Broker](https://github.com/awslabs/aws-servicebroker-documentation/wiki) | The AWS Service Broker is an open source project that allows the management of native AWS services through the Open Service Broker API.  |
-|[KubeDB Service Broker](https://github.com/kubedb/service-broker) | Run production grade databases on Kubernetes managed by [KubeDB](https://kubedb.com) through the Open Service Broker API.  |
+|[AppsCode Service Broker](https://github.com/appscode/service-broker) | Run AppsCode cloud services on Kubernetes via the Open Service Broker API. |
 
 # Your Broker Here
 
